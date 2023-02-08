@@ -2,7 +2,7 @@ public class ShipCostCalculator {
     public static void main(String[] args) {
 
         //Enter the price of your item
-        double itemPrice = 250;
+        double itemPrice = 50;
 
         if (itemPrice >= 100)
         {
